@@ -1,0 +1,13 @@
+git clone -b 14_v3 https://github.com/DroidX-UI-Devices/device_xiaomi_topaz device/xiaomi/topaz
+
+git clone -b 14_v3 https://github.com/DroidX-UI-Devices/device_xiaomi_sm6225-common device/xiaomi/sm6225-common
+
+git clone -b lineage-21 https://github.com/BaranAspect-Development/device_xiaomi_topaz-kernel device/xiaomi/topaz-kernel
+
+git clone -b lineage-21 https://github.com/BaranAspect-Development/vendor_xiaomi_topaz vendor/xiaomi/topaz
+
+git clone -b lineage-21 https://github.com/BaranAspect-Development/vendor_xiaomi_sm6225-common vendor/xiaomi/sm6225-common
+
+git clone -b lineage-21 https://github.com/BaranAspect-Development/hardware_xiaomi_sunstar hardware/xiaomi
+
+git clone -b lineage-21 https://github.com/BaranAspect-Development/device_xiaomi_sepolicy device/xiaomi/sepolicy
